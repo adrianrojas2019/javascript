@@ -1,1 +1,0 @@
-Feature: Check if is valid example
